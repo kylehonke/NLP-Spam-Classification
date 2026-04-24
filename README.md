@@ -11,3 +11,7 @@ Future iterations will transition this analytical notebook into a fully modular 
 **Model:** BERT (Bidirectional Encoder Representations from Transformers)
 
 **Dataset:** SMS Spam Collection Dataset (UCI Machine Learning Repository)
+
+## **NOTE:**
+
+As a result of transfering this notebook from Google Colab to GitHub, there is an error when attempting to view the notebook via GitHub. This is due to the use of widgets in the notebook, which are not supported by GitHub's rendering of Jupyter notebooks. This will be resolved as soon as possible. If I'm unable to remedy the issue, I will clear cell outputs and upload rendered images to the repository after completing modularization of the code.
